@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    scroll-behavior: smooth;
+}
+
+#hmenu{
+    font-weight: bolder;
+    font-size: x-large;
+}
+#spanText{
+    font-weight: bolder;
+    font-size: 30px;
+}
+#spanColor{
+    color: orange;
+}
+#spanTextp{
+    font-weight: bold;
+}
+#menuborder{
+    border-bottom: 3px solid white;
+    padding-bottom: 7px;
+}
+input{
+    width: 90%;
+}
+textarea{
+    width: 90%;
+}
