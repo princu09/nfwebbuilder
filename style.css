@@ -30,3 +30,14 @@ input{
 textarea{
     width: 90%;
 }
+
+#team-img{
+    width: 300px;
+}
+#degree{
+    text-align: center;
+}
+
+#about-team{
+    justify-content: center;
+}
